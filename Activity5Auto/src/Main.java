@@ -10,7 +10,7 @@ public class Main {
     System.out.println(myVc.toString());
     System.out.println(myVc);
 
-    VehicleChassis myVc2 = new VehicleChassis(chassisName "chas");
+    VehicleChassis myVc2 = new VehicleChassis("chas");
     System.out.println(myVc2.toString());
   }
 }
